@@ -1,0 +1,20 @@
+h1 {
+  color: #623985;
+  background-color: orange;
+}
+
+h2 {
+  color: #348924;
+  background-color: orange;
+  text-align: center;
+  font-weight: bolder;
+}
+
+p {
+  font-family: cursive;
+  font-size: 30px;
+}
+
+body {
+  background-color: #77aa77
+}
